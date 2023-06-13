@@ -1,0 +1,143 @@
+:root{
+
+
+    --color-informatica: #00fff7;
+    --color-mates: #000eff;
+    --color-empresa: #48bbab;
+    --color-historia: #f2f413;
+    --color-ef: #ff00fc;
+    --color-valenciano: #ff5c00;
+    --color-bio: #47e108;
+    --color-valores: #890000;
+    --color-filo: #d8d8d8;
+    --color-ingles: #005e25;
+    --color-castellano: #ff0000;
+    --color-tutoria: #8c00ff;
+    --color-patio: #00fff7;
+    --color-horas: #00fff7;
+}
+
+body {
+    font-family: 'Passion One', cursive;
+}
+
+.info{
+  
+    background-color: var(--color-informatica);
+    width: 50px;
+    padding: 5px;
+    text-align: center;
+   
+}
+.mates{
+  
+    background-color: var(--color-mates);
+    width: 50px; 
+    padding: 5px;
+    text-align: center;
+    color: white;
+}
+.empresa{
+  
+    background-color: var(--color-empresa);
+    width: 50px;
+    padding: 5px;
+    text-align: center;
+}
+.hist{
+  
+    background-color: var(--color-historia);
+    width: 50px;
+    padding: 5px;
+    text-align: center;
+}
+.ef{
+  
+    background-color: var(--color-ef);
+    width: 50px;
+    padding: 5px;
+    text-align: center;
+}
+.valen{
+  
+    background-color: var(--color-valenciano);
+    width: 50px;
+    padding: 5px;  
+    text-align: center;
+}
+.bio{
+  
+    background-color: var(--color-bio);
+    width: 50px;
+    padding: 5px;  
+    text-align: center;
+}
+.valores{
+  
+    background-color: var(--color-valores);
+    width: 50px;
+    padding: 5px;  
+    text-align: center;
+    color: white;
+}
+.filo{
+  
+    background-color: var(--color-filo);
+    width: 50px;
+    padding: 5px;  
+    text-align: center;
+}
+.ingles{
+  
+    background-color: var(--color-ingles);
+    width: 50px;
+    padding: 5px;
+    color: white;  
+    text-align: center;
+}
+.caste{
+  
+    background-color: var(--color-castellano);
+    width: 50px;
+    padding: 5px;  
+    text-align: center;
+}
+.tutoria{
+  
+    background-color: var(--color-tutoria);
+    width: 50px;
+    padding: 5px;  
+    text-align: center;
+}
+.tabla-horario{
+    
+    border-collapse: collapse;
+}
+
+.tabla-horario td, .tabla-horario th{
+   
+    border: 1px solid black;
+}
+.horario{
+     background-color: #37586b ;
+     padding: 5px;  
+     text-align: center;
+     color: white; 
+}
+.horas{
+     background-color:  #ff8700 ;
+     padding: 5px;  
+     text-align: center;
+}
+.dias{ 
+    background-color: #e1cb0f ;
+    padding: 5px;  
+    text-align: center;
+}
+.patio{
+    background-color:  #d717a0
+    ; color: white ;
+    padding: 5px;
+
+    text-align: center;
+}
